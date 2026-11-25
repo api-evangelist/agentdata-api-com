@@ -66,7 +66,7 @@
 
 AgentData API provides verifiable cryptocurrency signals for AI agents on the Base Mainnet, offering 31 pay‑per‑request endpoints without requiring accounts or API keys. It delivers real‑time market data, sentiment analysis, funding rates, and risk briefs, enabling developers to integrate trustworthy crypto insights into autonomous agents and applications.
 
-**Areas:** Company · Crypto · AI · Blockchain · Data · Signals
+**Areas:** Company · Cryptocurrency · Artificial Intelligence · Blockchain · Data · Signals
 
 ## agentdata-api-com on APIs.io
 
@@ -107,11 +107,17 @@ Everything profiled for agentdata-api-com is published on APIs.io rather than in
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentdata-api-com-mcp.yml](https://apis.io/servers/agentdata-api-com/agentdata-api-com-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentdata Api Com Agentic Access](https://apis.io/agentic-access/agentdata-api-com/agentdata-api-com-agentic-access/)
+- [agentdata-api-com Agentic Access](https://apis.io/agentic-access/agentdata-api-com/agentdata-api-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -123,7 +129,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentdata Api Com Domain Security](https://apis.io/security/agentdata-api-com/agentdata-api-com-domain-security/)
+- [agentdata-api-com Domain Security](https://apis.io/security/agentdata-api-com/agentdata-api-com-domain-security/)
 
 ## Where to find this API
 
@@ -136,44 +142,48 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 29.8** — thin · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 24.7** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
-| Contract quality | 36.7 |
-| Contract governance | 65.5 |
+| Discoverability | 71.7 |
+| Contract quality | 39.8 |
+| Contract governance | 18.2 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 35.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 29.5** — agent-ready
+**Agent readiness 31.6** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
-| Reversibility Documented | — |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | na |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
-| Idempotency | — |
+| Idempotency | na |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | flavored (partial credit) |
-| Dry Run Mode | — |
+| Dry Run Mode | na |
 | Delegated Identity | — |
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 4.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentdata-api-com/](https://apis.io/providers/agentdata-api-com/).
 
